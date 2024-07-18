@@ -102,7 +102,7 @@ const leaveComments = async (target, amount, batchSize = 5, delayMs = 5000) => {
 };
 
 // Usage
-const target = "YOUR_TARGET_MINT_PUMP_FUN_ADDY";
+const target = "https://pump.fun/FdG1RPni86oyPzqPgihmrUfGmsfHVHX2otEWxQGYpump";
 const amount = 100;
 const batchSize = 5;
 const delayMs = 5000;
